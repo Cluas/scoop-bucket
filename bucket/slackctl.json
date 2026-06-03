@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "description": "A fast, single-binary Slack CLI for AI agents and humans",
+  "homepage": "https://github.com/cluas/slackctl",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/Cluas/slackctl/releases/download/v0.2.0/slackctl_windows_amd64.zip",
+      "bin": "slackctl.exe",
+      "hash": "a1c523cdddc81115e5377d93dc554d1af033f032c6f5d1cd713e98ca7556dbc8"
+    },
+    "arm64": {
+      "url": "https://github.com/Cluas/slackctl/releases/download/v0.2.0/slackctl_windows_arm64.zip",
+      "bin": "slackctl.exe",
+      "hash": "08b84ae44301ecb51557da08d41fa0bff4c09d61ec4a9b3a10c2572f4319ba78"
+    }
+  }
+}
