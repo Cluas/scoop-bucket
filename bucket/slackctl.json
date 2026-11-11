@@ -1,19 +1,19 @@
 {
-    "version": "0.2.4",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cluas/slackctl/releases/download/v0.2.4/slackctl_windows_amd64.zip",
+            "url": "https://github.com/cluas/slackctl/releases/download/v0.3.0/slackctl_windows_amd64.zip",
             "bin": [
                 "slackctl.exe"
             ],
-            "hash": "e173bd6e15aa89c86cd182a413ab1e1387bbb52c84ed345b33e34406b243e08e"
+            "hash": "c3fb67feb16a5429f26845daacfb31946b76c2481a7ed9d137eb3d08e13033d1"
         },
         "arm64": {
-            "url": "https://github.com/cluas/slackctl/releases/download/v0.2.4/slackctl_windows_arm64.zip",
+            "url": "https://github.com/cluas/slackctl/releases/download/v0.3.0/slackctl_windows_arm64.zip",
             "bin": [
                 "slackctl.exe"
             ],
-            "hash": "a12883b31f75e1493efb026d53df828fa2b13f0ba04ea1bf6ad860eb7065e5c4"
+            "hash": "9e1c118aa438f32c775b065ef5aaecd8844de8bdd152b96adb33bdaeb0ab14cd"
         }
     },
     "homepage": "https://github.com/cluas/slackctl",
